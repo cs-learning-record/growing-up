@@ -5,10 +5,6 @@
 
 本人平时学习及收集内容，欢迎参入一起讨论。
 
-## 关于作者
-
-暂时欠着
-
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 2. [从 0 到 1，小白的前端摸索之路](https://juejin.im/post/5c555b2de51d457fa31e306d)
 3. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
@@ -62,6 +58,7 @@
 51. [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
 52. [考研：从双非到清华，努力、规划、踏实、自律](https://mp.weixin.qq.com/s/68ASu5x5t2D0BSV6ZzNQ2Q)
 53. [黄轶：如何成为公司独当一面的工程师](https://mp.weixin.qq.com/s/ip2bdYEnTuZo00eyiKo1Yg)
+54. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 
 ## 联系作者
 
