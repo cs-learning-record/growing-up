@@ -1,3 +1,13 @@
+![image](./img/timg.jpg)
+<br>
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [从0到1，小白的前端摸索之路](https://juejin.im/post/5c555b2de51d457fa31e306d)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
@@ -41,3 +51,12 @@
 13. [好好说话，别伤人](https://mp.weixin.qq.com/s/1I_FUpCCkbILrzmBmcmS8Q)
 14. [28岁裸辞转行前端是怎样的一种体验](https://juejin.im/post/5cd216d5e51d453b5854b884)
 15. [如何有效地记忆与学习](http://mindhacks.cn/2009/03/28/effective-learning-and-memorization/)
+
+## 联系作者
+
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
