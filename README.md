@@ -51,6 +51,7 @@
 13. [好好说话，别伤人](https://mp.weixin.qq.com/s/1I_FUpCCkbILrzmBmcmS8Q)
 14. [28岁裸辞转行前端是怎样的一种体验](https://juejin.im/post/5cd216d5e51d453b5854b884)
 15. [如何有效地记忆与学习](http://mindhacks.cn/2009/03/28/effective-learning-and-memorization/)
+16. [如何成为一名优秀的程序员？](http://icodeit.org/2017/07/tips-for-newbies/)
 
 ## 联系作者
 
