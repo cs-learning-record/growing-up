@@ -54,6 +54,7 @@
 15. [如何有效地记忆与学习](http://mindhacks.cn/2009/03/28/effective-learning-and-memorization/)
 16. [一个人如果表达能力差、理解能力差，怎么改变？](https://www.zhihu.com/question/305368229/answer/690120024)
 17. [如何成为一名优秀的程序员？](http://icodeit.org/2017/07/tips-for-newbies/)
+18. [成为一个优秀程序员的101个小建议](https://mp.weixin.qq.com/s/mc7l4GwF0T976wNhKze2iA)
 
 ## 联系作者
 
