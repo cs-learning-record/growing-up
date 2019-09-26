@@ -54,6 +54,7 @@
 1. [IT 技术人员的自我修养](https://www.cnblogs.com/spec-dog/p/11250336.html)
 1. [如何成为一名优秀的程序员？](http://icodeit.org/2017/07/tips-for-newbies/)
 1. [成为一个优秀程序员的 101 个小建议](https://mp.weixin.qq.com/s/mc7l4GwF0T976wNhKze2iA)
+2. [有什么是你面试失败后才知道的？](https://mp.weixin.qq.com/s/irnLNWpP438PwwsA1sIC_A)
 
 ## 联系作者
 
