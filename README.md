@@ -58,6 +58,7 @@
 47. [微软一年工作学习和工作经验总结](https://mp.weixin.qq.com/s/bJhwtjxnCkpKV7H5UFVugQ)
 48. [【第1766期】蚂蚁金服@玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/1-rXIRKsPIvpZc9dtm6MAw)
 49. [【第1777期】阿里舒文：从应届生到双11前端PM](https://mp.weixin.qq.com/s/PLpd1U2CDaOGlvEn_F67XQ)
+50. [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei)
 
 ## 联系作者
 
