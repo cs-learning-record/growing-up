@@ -61,6 +61,7 @@
 50. [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei)
 51. [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
 52. [考研：从双非到清华，努力、规划、踏实、自律](https://mp.weixin.qq.com/s/68ASu5x5t2D0BSV6ZzNQ2Q)
+53. [黄轶：如何成为公司独当一面的工程师](https://mp.weixin.qq.com/s/ip2bdYEnTuZo00eyiKo1Yg)
 
 ## 联系作者
 
