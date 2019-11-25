@@ -60,6 +60,7 @@
 53. [黄轶：如何成为公司独当一面的工程师](https://mp.weixin.qq.com/s/ip2bdYEnTuZo00eyiKo1Yg)
 54. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 55. [if 我是前端Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/5dd55512f265da47a807cc06)
+56. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
 
 ## 联系作者
 
