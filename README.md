@@ -52,15 +52,16 @@
 45. [成为一个优秀程序员的 101 个小建议](https://mp.weixin.qq.com/s/mc7l4GwF0T976wNhKze2iA)
 46. [有什么是你面试失败后才知道的？](https://mp.weixin.qq.com/s/irnLNWpP438PwwsA1sIC_A)
 47. [微软一年工作学习和工作经验总结](https://mp.weixin.qq.com/s/bJhwtjxnCkpKV7H5UFVugQ)
-48. [【第1766期】蚂蚁金服@玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/1-rXIRKsPIvpZc9dtm6MAw)
-49. [【第1777期】阿里舒文：从应届生到双11前端PM](https://mp.weixin.qq.com/s/PLpd1U2CDaOGlvEn_F67XQ)
+48. [【第 1766 期】蚂蚁金服@玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/1-rXIRKsPIvpZc9dtm6MAw)
+49. [【第 1777 期】阿里舒文：从应届生到双 11 前端 PM](https://mp.weixin.qq.com/s/PLpd1U2CDaOGlvEn_F67XQ)
 50. [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei)
 51. [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
 52. [考研：从双非到清华，努力、规划、踏实、自律](https://mp.weixin.qq.com/s/68ASu5x5t2D0BSV6ZzNQ2Q)
 53. [黄轶：如何成为公司独当一面的工程师](https://mp.weixin.qq.com/s/ip2bdYEnTuZo00eyiKo1Yg)
 54. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
-55. [if 我是前端Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/5dd55512f265da47a807cc06)
+55. [if 我是前端 Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/5dd55512f265da47a807cc06)
 56. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
+57. [华为作过的恶](https://github.com/evil-huawei/evil-huawei)
 
 ## 联系作者
 
