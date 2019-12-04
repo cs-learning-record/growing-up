@@ -62,6 +62,7 @@
 55. [if 我是前端 Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/5dd55512f265da47a807cc06)
 56. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
 57. [华为作过的恶](https://github.com/evil-huawei/evil-huawei)
+58. [【招聘】蚂蚁金服 RichLab 团队紧急招聘](https://mp.weixin.qq.com/s/kpvFGxbasRq1AF_4h6X6xg)
 
 ## 联系作者
 
