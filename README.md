@@ -70,6 +70,7 @@
 63. [考研人的 2019——一战跨考清华计算机的血泪史](https://www.cnblogs.com/ECJTUACM-873284962/p/12230187.html)
 64. [从淘汰边缘到阿里资深前端技术专家，他总结了 8 点](https://mp.weixin.qq.com/s/Z2R6hEPwM1Ad9ikdORSe5Q)
 65. [2019 前端之路 | 掘金年度征文](https://juejin.im/post/5e11ef3b6fb9a0483a135fa7)
+66. [三年前端路：分享我的工作经验与学习经历](https://segmentfault.com/a/1190000022184162)
 
 ## 联系作者
 
