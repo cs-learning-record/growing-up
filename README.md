@@ -71,6 +71,8 @@
 64. [从淘汰边缘到阿里资深前端技术专家，他总结了 8 点](https://mp.weixin.qq.com/s/Z2R6hEPwM1Ad9ikdORSe5Q)
 65. [2019 前端之路 | 掘金年度征文](https://juejin.im/post/5e11ef3b6fb9a0483a135fa7)
 66. [三年前端路：分享我的工作经验与学习经历](https://segmentfault.com/a/1190000022184162)
+67. [早早聊：如何做职业规划](https://zhuanlan.zhihu.com/p/134106143)
+68. [我在阿里云做前端](https://zhuanlan.zhihu.com/p/61127760)
 
 ## 联系作者
 
