@@ -73,6 +73,7 @@
 66. [三年前端路：分享我的工作经验与学习经历](https://segmentfault.com/a/1190000022184162)
 67. [早早聊：如何做职业规划](https://zhuanlan.zhihu.com/p/134106143)
 68. [我在阿里云做前端](https://zhuanlan.zhihu.com/p/61127760)
+69. [你累死累活做业务，绩效还不怎么样，我只能帮你到这了……](https://mp.weixin.qq.com/s/TU6rvx6vWQWROaxqO3qDsA)
 
 ## 联系作者
 
