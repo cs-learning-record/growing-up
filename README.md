@@ -75,6 +75,7 @@
 68. [我在阿里云做前端](https://zhuanlan.zhihu.com/p/61127760)
 69. [你累死累活做业务，绩效还不怎么样，我只能帮你到这了……](https://mp.weixin.qq.com/s/TU6rvx6vWQWROaxqO3qDsA)
 70. [我在阿里是怎么工作的——写在阿里入职一周年](https://juejin.im/post/5eb9e6b751882560d56d73bb)
+71. [结构化的思考、做事、成长](https://mp.weixin.qq.com/s/bT71OpU6tVQbYGBYiSC0AA)
 
 ## 联系作者
 
