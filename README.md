@@ -78,6 +78,7 @@
 71. [结构化的思考、做事、成长](https://mp.weixin.qq.com/s/bT71OpU6tVQbYGBYiSC0AA)
 72. [从 0 到 1，从优秀到卓越，再到基业长青](https://mp.weixin.qq.com/s/tih-m3-N2SeUEZmw9Z5uTg)
 73. [顶级互联网公司的管理之道 - 文化、组织、人才](https://mp.weixin.qq.com/s/CNwHXjE6NcvZxM7hl0C30Q)
+74. [我在阿里收获的 N 个成长](https://mp.weixin.qq.com/s/13dl0BD-VQ3GvhOIKv8jZw)
 
 ## 联系作者
 
