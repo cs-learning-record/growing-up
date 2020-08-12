@@ -77,6 +77,7 @@
 70. [我在阿里是怎么工作的——写在阿里入职一周年](https://juejin.im/post/5eb9e6b751882560d56d73bb)
 71. [结构化的思考、做事、成长](https://mp.weixin.qq.com/s/bT71OpU6tVQbYGBYiSC0AA)
 72. [从 0 到 1，从优秀到卓越，再到基业长青](https://mp.weixin.qq.com/s/tih-m3-N2SeUEZmw9Z5uTg)
+73. [顶级互联网公司的管理之道 - 文化、组织、人才](https://mp.weixin.qq.com/s/CNwHXjE6NcvZxM7hl0C30Q)
 
 ## 联系作者
 
