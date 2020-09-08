@@ -78,6 +78,7 @@
 73. [从 0 到 1，从优秀到卓越，再到基业长青](https://mp.weixin.qq.com/s/tih-m3-N2SeUEZmw9Z5uTg)
 74. [顶级互联网公司的管理之道 - 文化、组织、人才](https://mp.weixin.qq.com/s/CNwHXjE6NcvZxM7hl0C30Q)
 75. [我在阿里收获的 N 个成长](https://mp.weixin.qq.com/s/13dl0BD-VQ3GvhOIKv8jZw)
+76. [思考、创新、坚持——阿里做了七年前端，我的成长经验分享](https://mp.weixin.qq.com/s/BIrlicuJt243YwZ90gnqGw)
 
 ## 联系作者
 
