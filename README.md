@@ -81,6 +81,7 @@
 76. [思考、创新、坚持——阿里做了七年前端，我的成长经验分享](https://mp.weixin.qq.com/s/BIrlicuJt243YwZ90gnqGw)
 77. [【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://mp.weixin.qq.com/s/Ti4LhQfqPH2sysg6RvU_BQ)
 78. [【第2062期】蚂蚁金服@沉鱼：前端十二年](https://mp.weixin.qq.com/s/WP2g3Yi3iJJVsfBuO06qWg)
+79. [程序员修炼之路](https://github.com/Snailclimb/programmer-advancement)
 
 ## 联系作者
 
