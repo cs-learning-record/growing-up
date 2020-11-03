@@ -63,7 +63,6 @@
 56. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
 57. [华为作过的恶](https://github.com/evil-huawei/evil-huawei)
 58. [【招聘】蚂蚁金服 RichLab 团队紧急招聘](https://mp.weixin.qq.com/s/kpvFGxbasRq1AF_4h6X6xg)
-59. [考研：从双非到清华，努力、规划、踏实、自律](https://mp.weixin.qq.com/s/68ASu5x5t2D0BSV6ZzNQ2Q)
 60. [程序员怎样出版一本技术书](https://www.cnblogs.com/JavaArchitect/p/12195219.html)
 63. [考研人的 2019——一战跨考清华计算机的血泪史](https://www.cnblogs.com/ECJTUACM-873284962/p/12230187.html)
 64. [从淘汰边缘到阿里资深前端技术专家，他总结了 8 点](https://mp.weixin.qq.com/s/Z2R6hEPwM1Ad9ikdORSe5Q)
