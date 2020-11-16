@@ -81,6 +81,7 @@
 77. [【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://mp.weixin.qq.com/s/Ti4LhQfqPH2sysg6RvU_BQ)
 78. [【第2062期】蚂蚁金服@沉鱼：前端十二年](https://mp.weixin.qq.com/s/WP2g3Yi3iJJVsfBuO06qWg)
 79. [程序员修炼之路](https://github.com/Snailclimb/programmer-advancement)
+80. [](https://www.cnblogs.com/dashnowords/p/13605742.html)
 
 ## 联系作者
 
